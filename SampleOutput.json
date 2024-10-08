@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Josh Smith",
+      "title": "Submarines, nuclear drones: Why is North Korea developing its navy? - Reuters",
+      "description": "Over the past year North Korea has moved to boost its navy with new nuclear weapons, including an underwater drone, warships, and its first operational missile submarine, unveiled on Friday.",
+      "url": "https://www.reuters.com/world/asia-pacific/new-submarines-nuclear-drones-why-is-north-korea-developing-its-navy-2023-09-08/",
+      "urlToImage": "https://www.reuters.com/resizer/Do5AiRd0trBfU3U_huGde8NRO4A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YX6QKLVIQBLW5HZUDUIT6CJPLE.jpg",
+      "publishedAt": "2023-09-08T08:34:55Z",
+      "content": "SEOUL, Sept 8 (Reuters) - Over the past year North Korea has moved to boost its navy with new nuclear weapons, including an underwater drone, warships, and its first operational missile submarine, un… [+3772 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Mary Gilbert",
+      "title": "Hurricane Lee strengthens to Category 5 storm in Atlantic as East Coast impact still uncertain - CNN",
+      "description": "Hurricane Lee has strengthened into a major Category 5 storm, packing maximum sustained wind speeds of 160 mph as it spins over the Atlantic well east of the Caribbean, the National Hurricane Center said in an 11 p.m. ET advisory Thursday.",
+      "url": "https://www.cnn.com/2023/09/08/weather/hurricane-lee-path-friday-climate/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908120126-hurricane-lee.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-08T07:12:00Z",
+      "content": "Hurricane Lee has strengthened into a major Category 5 storm, packing maximum sustained wind speeds of 160 mph as it spins over the Atlantic well east of the Caribbean, the National Hurricane Center … [+4107 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Lim Hui Jie",
+      "title": "Asia markets fall as Japan economy grows slower than expected; Hong Kong cancels Friday trading - CNBC",
+      "description": "Hong Kong's exchange cancelled trading for the day following a \"black rainstorm\" warning.",
+      "url": "https://www.cnbc.com/2023/09/08/asia-stock-markets-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107199987-1677456192600-gettyimages-1288705380-1032_14_30092236.jpeg?v=1694131117&w=1920&h=1080",
+      "publishedAt": "2023-09-08T05:43:00Z",
+      "content": "Analysts at Barclays have identified electrification as a \"mega theme\" and have named several stocks set to benefit.\r\n\"The electric grid plays a key electrification and energy transition role,\" the a… [+486 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Eric Woodyard",
+      "title": "Week 1 win at Chiefs 'verification' of 'resilient' Lions, coach Dan Campbell says - ESPN - ESPN",
+      "description": "After a 21-20 win over the defending Super Bowl champion Chiefs, Lions coach Dan Campbell said he wasn't surprised by the outcome.",
+      "url": "https://www.espn.com/nfl/story/_/id/38350804/week-1-win-chiefs-verification-resilient-lions-coach-dan-campbell-says",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0908%2Fr1221535_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-09-08T05:35:00Z",
+      "content": "KANSAS CITY, Mo. -- While the football world might have been stunned by the Detroit Lions' 21-20 win over the reigning Super Bowl champion Kansas City Chiefs, there was one person who wasn't: Dan Cam… [+3386 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Wall Street Journal",
+      "title": "India Hosts G-20 Summit in Shadow of Geopolitical Rivalries - The Wall Street Journal",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndzai5jb20vd29ybGQvaW5kaWEvaW5kaWEtaG9zdHMtZy0yMC1zdW1taXQtaW4tc2hhZG93LW9mLWdlb3BvbGl0aWNhbC1yaXZhbHJpZXMtYjMxNzlmOdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-08T04:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Dan Gallagher",
+      "title": "Apple Becomes the Biggest U.S.-China Pawn Yet - The Wall Street Journal",
+      "description": "Few companies are safe if Apple isn’t immune to China retaliation",
+      "url": "https://www.wsj.com/tech/apple-becomes-the-biggest-u-s-china-pawn-yet-ad093256",
+      "urlToImage": "https://images.wsj.net/im-848467/social",
+      "publishedAt": "2023-09-08T04:01:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Travis Kelce injury update: Chiefs optimistic star TE can play Week 2 after missing opener, per report - CBS Sports",
+      "description": "Kelce injured his knee in practice on Tuesday",
+      "url": "https://www.cbssports.com/nfl/news/travis-kelce-injury-update-chiefs-optimistic-star-te-can-play-week-2-after-missing-opener-per-report/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/08/7a5d52e8-f532-418c-92f0-4ccd3be5a97d/thumbnail/1200x675/61ce9ce68e7492395531dd01b43c5dd3/kelce-3g.jpg",
+      "publishedAt": "2023-09-08T04:01:00Z",
+      "content": "Patrick Mahomes and the Kansas City Chiefs were without their No. 1 offensive weapon as they kicked off the 2023 regular season against the Detroit Lions on Thursday night -- a 21-20 loss. Star tight… [+1977 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Search for American man trapped in cave in Turkey - 13News Now",
+      "description": "A daring rescue is underway in Turkey as crews search for an American researcher trapped inside a cave. That researcher got sick on Saturday and has been stu...",
+      "url": "https://www.youtube.com/watch?v=gsmlElg83kE",
+      "urlToImage": "https://i.ytimg.com/vi/gsmlElg83kE/hqdefault.jpg",
+      "publishedAt": "2023-09-08T03:38:34Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Texas Public Radio" },
+      "author": "David Martin Davies, Dan Katz",
+      "title": "Fifth Circuit issues temporary stay for Texas' border buoys to remain in Rio Grande - Texas Public Radio",
+      "description": "It was a short-lived victory for the federal government over the Texas’ anti-migrant border buoys. The day after a federal judge ordered the buoys removal, the Fifth Circuit Court of Appeals issued an emergency stay.",
+      "url": "https://www.tpr.org/border-immigration/2023-09-07/fifth-circuit-issues-emergency-stay-for-texas-anti-migrant-buoys-to-remain-in-the-rio-grande",
+      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/1f93e68/2147483647/strip/true/crop/3222x1692+0+228/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F28%2Fc5%2Ffe61f19e42388935bcd3196613a7%2F2023-08-11t130051z-1454938294-rc2kb2a2deqv-rtrmadp-3-usa-immigration-border-texas.JPG",
+      "publishedAt": "2023-09-08T03:30:00Z",
+      "content": "Get TPR's best stories of the day and a jump start to the weekend with the 321 Newsletter straight to your inbox every day. Sign up for it here.\r\nIt was a short-lived victory for the federal governme… [+2261 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "China's Huawei launches Mate 60 Pro+ smartphone for presale - Reuters",
+      "description": "China's Huawei Technologies on Friday started presales for its Mate 60 Pro+ smartphone, adding a new version to a series that has captured global attention for revealing the Chinese tech firm's success in beating back against U.S. sanctions.",
+      "url": "https://www.reuters.com/technology/chinas-huawei-launches-mate-60-pro-smartphone-presale-2023-09-08/",
+      "urlToImage": "https://www.reuters.com/resizer/ny0PTDnQonyDUYuDNhziPMDWiY0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JUEDW3ST75KN5NAF5CQLCRKOAE.jpg",
+      "publishedAt": "2023-09-08T03:23:27Z",
+      "content": "BEIJING, Sept 8 (Reuters) - China's Huawei Technologies on Friday started presales for its Mate 60 Pro+ smartphone, adding a new version to a series that has captured global attention for revealing t… [+1392 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Alli Rosenbloom, Oliver Darcy",
+      "title": "Jimmy Fallon apologized to staff over allegations of difficult work environment on ‘Tonight Show’ - CNN",
+      "description": "Jimmy Fallon has apologized to his colleagues over allegations outlined in a Rolling Stone story published Thursday about a difficult work environment at “The Tonight Show Starring Jimmy Fallon,” CNN has learned.",
+      "url": "https://www.cnn.com/2023/09/07/entertainment/jimmy-fallon-apology/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230907152644-jimmy-fallon-tonight-show-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-08T02:51:00Z",
+      "content": "Jimmy Fallon has apologized to his colleagues over allegations outlined in a Rolling Stone story published Thursday about a difficult work environment at The Tonight Show Starring Jimmy Fallon, CNN h… [+2363 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Thenationaldesk.com" },
+      "author": "COURTNEY RAU  | The National Desk",
+      "title": "Fact Check Team: Narcan now available over-the-counter in efforts to ease opioid overdose deaths - KOMO News",
+      "description": "221 people in the U.S. died each day of 2021 from an opioid overdose, most of which involve synthetic opioids like fentanyl.",
+      "url": "https://thenationaldesk.com/news/fact-check-team/fact-check-team-narcan-now-available-over-the-counter-in-efforts-to-ease-opioid-overdose-deaths-naloxone-opiates-cvs-rite-aid-walmart-oud-private-health-insurance-medicaid-fentanyl-fake-pills-oxycodone-xanax",
+      "urlToImage": "https://thenationaldesk.com/resources/media/ffd27b9b-47cc-4244-aef5-77abb198c184-large16x9_AP23083696207676.jpg?1680095297793",
+      "publishedAt": "2023-09-08T02:39:00Z",
+      "content": "by COURTNEY RAU | The National Desk\r\nFri, September 8th 2023, 2:39 AM UTC"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "Lilly's diabetes drug gains backing of UK watchdog -Bloomberg News - Reuters",
+      "description": "Eli Lilly's <a href=\"https://www.reuters.com/markets/companies/LLY.N\" target=\"_blank\">(LLY.N)</a> diabetes drug Mounjaro has gained the backing of Britain's healthcare cost-effectiveness watchdog, which said it would be a good option for patients with poorly …",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/lillys-diabetes-drug-gains-backing-uk-watchdog-bloomberg-news-2023-09-08/",
+      "urlToImage": "https://www.reuters.com/resizer/1ZmgZD1C5NptBvvfCEsA5an61Nk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FAQTJ67KUNKL3H6NZ4DIJMOMOI.jpg",
+      "publishedAt": "2023-09-08T01:58:00Z",
+      "content": "Sept 8 (Reuters) - Eli Lilly's (LLY.N) diabetes drug Mounjaro has gained the backing of Britain's healthcare cost-effectiveness watchdog, which said it would be a good option for patients with poorly… [+1477 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Thousands of migrant children test NYC schools system - BBC",
+      "description": "The first day of class for new arrivals like Thiago came amid \"dystopian\" rhetoric from the mayor.",
+      "url": "https://www.bbc.com/news/world-us-canada-66748182",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/70D1/production/_131018882_patriciaandthiago.jpg",
+      "publishedAt": "2023-09-08T01:52:53Z",
+      "content": "Media caption, Watch: An emotional first day of school for migrant students in New York City\r\nThe mayor of New York has warned that the city could be \"destroyed\" if it does not get more help to cope … [+6062 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ashley Strickland",
+      "title": "The first experiment to produce oxygen on another planet has come to an end - CNN",
+      "description": "The first experiment to create oxygen on another planet has reached a successful end on Mars after demonstrating technology that could help humans live on the red planet.",
+      "url": "https://www.cnn.com/2023/09/07/world/nasa-mars-moxie-perseverance-scn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/211228151449-01-nasa-perseverance-mars-rover-screenshot.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-08T01:29:00Z",
+      "content": "Editors Note: Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe first experiment to produce oxygen o… [+3735 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Georgia DA eviscerates Jim Jordan, suggests he buy book on RICO law - MSNBC",
+      "description": "Fulton County DA Fani Willis rebuked GOP Rep. Jim Jordan over his bid to interfere in the Trump case. “Your letter makes clear that you lack a basic understa...",
+      "url": "https://www.youtube.com/watch?v=tGAKIL3xtLI",
+      "urlToImage": "https://i.ytimg.com/vi/tGAKIL3xtLI/maxresdefault.jpg",
+      "publishedAt": "2023-09-08T01:00:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Gov. Kristi Noem to endorse Trump during South Dakota campaign rally - POLITICO",
+      "description": "Noem has been floated as a potential VP pick for the former president.",
+      "url": "https://www.politico.com/news/2023/09/07/gov-kristi-noem-to-endorse-trump-during-south-dakota-campaign-rally-00114648",
+      "urlToImage": "https://static.politico.com/01/5b/07bbca09420bbb8d4258ccbe5745/election-2024-trump-south-dakota-58894.jpg",
+      "publishedAt": "2023-09-08T00:42:37Z",
+      "content": "South Dakota Gov. Kristi Noem (right) has been floated as a possible running mate for Donald Trump. | Susan Walsh/AP Photo\r\nGov. Kristi Noem of South Dakota will endorse former President Donald Trump… [+569 chars]"
+    }
+  ]
+}
